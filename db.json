@@ -6,17 +6,17 @@
             "childs":[
                {
                   "name":"法國RT-DERMIS品牌專區",
-                  "href":"#",
+                  "href":"/category/1",
                   "cover":"https://esales-upload-files.s3.ap-southeast-1.amazonaws.com/product_collection_images/95c29aab-d76d-4ad5-aa19-25a9069ef6fc.jpeg"
                },
                {
                   "name":"法國SKIN RE:birth品牌專區",
-                  "href":"#",
+                  "href":"/category/2",
                   "cover":"https://esales-upload-files.s3.ap-southeast-1.amazonaws.com/product_collection_images/95c29aab-d76d-4ad5-aa19-25a9069ef6fc.jpeg"
                },
                {
                   "name":"瑞士Magic Reborn品牌專區",
-                  "href":"#",
+                  "href":"/category/3",
                   "cover":"https://esales-upload-files.s3.ap-southeast-1.amazonaws.com/product_collection_images/95c29aab-d76d-4ad5-aa19-25a9069ef6fc.jpeg"
                }
             ]
