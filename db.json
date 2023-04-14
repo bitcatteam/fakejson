@@ -1,0 +1,63 @@
+{
+   "menu":{
+      "brandCategories":[
+         {
+            "name":"獨家醫學護膚品牌",
+            "childs":[
+               {
+                  "name":"法國RT-DERMIS品牌專區",
+                  "href":"#",
+                  "cover":"https://esales-upload-files.s3.ap-southeast-1.amazonaws.com/product_collection_images/95c29aab-d76d-4ad5-aa19-25a9069ef6fc.jpeg"
+               },
+               {
+                  "name":"法國SKIN RE:birth品牌專區",
+                  "href":"#",
+                  "cover":"https://esales-upload-files.s3.ap-southeast-1.amazonaws.com/product_collection_images/95c29aab-d76d-4ad5-aa19-25a9069ef6fc.jpeg"
+               },
+               {
+                  "name":"瑞士Magic Reborn品牌專區",
+                  "href":"#",
+                  "cover":"https://esales-upload-files.s3.ap-southeast-1.amazonaws.com/product_collection_images/95c29aab-d76d-4ad5-aa19-25a9069ef6fc.jpeg"
+               }
+            ]
+         },
+         {
+            "name":"熱銷醫學護膚品牌"
+         },
+         {
+            "name":"其他品牌護膚品"
+         }
+      ],
+      "typeCategories":[
+         {
+            "name":"專業家用美容儀器",
+            "childs":[
+               {
+                  "name":"韓國SO・22",
+                  "href":"#",
+                  "cover":"https://esales-upload-files.s3.ap-southeast-1.amazonaws.com/product_collection_images/95c29aab-d76d-4ad5-aa19-25a9069ef6fc.jpeg"
+               }
+            ]
+         },
+         {
+            "name":"減肥瘦身保養",
+            "childs":[
+               {
+                  "name":"有效瘦身減肥產品",
+                  "href":"#",
+                  "cover":"https://esales-upload-files.s3.ap-southeast-1.amazonaws.com/merchant-images/963715bb-fe88-40a8-a6fe-d7ddcee4b7af.jpeg"
+               }
+            ]
+         },
+         {
+            "name":"超好用彩妝！ 熱推！"
+         },
+         {
+            "name":"HAIR ＆ BODY CARE 頭髮＆身體保養"
+         },
+         {
+            "name":"療程後專用面膜（彩光、激光、皮秒、M22、水光針）"
+         }
+      ]
+   }
+}
