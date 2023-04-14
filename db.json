@@ -1,6 +1,6 @@
 {
    "menu":{
-      "brandCategories":[
+      "brands":[
          {
             "name":"獨家醫學護膚品牌",
             "childs":[
@@ -28,7 +28,7 @@
             "name":"其他品牌護膚品"
          }
       ],
-      "typeCategories":[
+      "categories":[
          {
             "name":"專業家用美容儀器",
             "childs":[
